@@ -1,0 +1,28 @@
+name: Turing Hype
+favicon: null
+layout_spectrum: 0.07031689374707639
+typography_spectrum: 0.9110669398214668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.36837481055408716
+  lightness: 0.8252083072438836
+  saturation: 0.3728199505712837
+  rhythmicContrast: 0.1354505519848317
+purpose: []
